@@ -95,7 +95,7 @@ I´m Maria Paula Cavalcante, a 16-year-old tech student from Minas Gerais, Brazi
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=mp-cavalcante&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
+    src="https://github-readme-stats.vercel.app/api?username=mp-cavalcante&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 
